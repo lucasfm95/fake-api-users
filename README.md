@@ -9,5 +9,5 @@ npm install -g json-server
 ```
 2. execute command: 
 ```bash
-json-server fake-api/json/db.json
+json-server db.json
  ```
